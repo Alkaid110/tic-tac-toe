@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-a game build with react and typescript
+a simple game build with react and typescript
